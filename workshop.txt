@@ -1,9 +1,9 @@
 [h2]Rejoice, children of Nod![/h2]
 
-Updated to 3.4, and should work for all subsequent sub-versions of 3.4. Note the mod should still work just fine for lower versions down to 2.0 at least, but will raise a warning.
+Updated to 3.6, and should work for all subsequent sub-versions of 3.6. Note the mod should still work just fine for lower versions down to 2.0 at least, but will raise a warning.
 
 [u]If your launcher claims incompatibility, try resubscribing to the mod on the workshop first - mods do not always update properly.[/u]
 
-An EVA fit for the true believers. Features quotes from Command and Conquer 3: Kane’s Wrath, covering all voice advisor notifications.
+An EVA fit for the true believers. Features quotes from Command and Conquer 3: Kane's Wrath, covering all voice advisor notifications.
 
 (Almost) Guaranteeed to contain no traces of evil computer assisted biologically augmented lifeforms.
