@@ -1,6 +1,6 @@
 [h2]Rejoice, children of Nod![/h2]
 
-Updated to 3.6, and should work for all subsequent sub-versions of 3.6. Note the mod should still work just fine for lower versions down to 2.0 at least, but will raise a warning.
+Updated to 3.7, and should work for all subsequent sub-versions of 3.7. Note the mod should still work just fine for lower versions down to 2.0 at least, but will raise a warning.
 
 [u]If your launcher claims incompatibility, try resubscribing to the mod on the workshop first - mods do not always update properly.[/u]
 
