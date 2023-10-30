@@ -1,4 +1,5 @@
 name="Nod Virtual Assistant"
+version="1.2.0"
 tags={
 	"Sound"
 	"Nod"
@@ -8,6 +9,7 @@ tags={
 	"Electronic Virtual Assistant"
 	"Command and Conquer"
 }
+path="mod/nod_voice_advisor/nod_voice_advisor"
 picture="thumb.png"
 supported_version="3.*.*"
 remote_file_id="1535597838"
