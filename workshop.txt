@@ -1,9 +1,15 @@
+[h3][img]https://raw.githubusercontent.com/Aerolfos/stellaris_mod_deploy_action/main/assets/blue_caution_triangle.png[/img] Supports version: [b]3.11.x[/b][/h3]
+[h3][img]https://raw.githubusercontent.com/Aerolfos/stellaris_mod_deploy_action/main/assets/victorious_small.png[/img] Achievement compatible.[/h3]
+
 [h2]Rejoice, children of Nod![/h2]
+This mod is likely to work beyond its latest updated version, so long as Stellaris does not receive a major update to advisor formats. It should also still work just fine for lower versions down to 2.0 at least, despite raising a warning in the launcher.
 
-Updated to 3.7, and should work for all subsequent sub-versions of 3.7. Note the mod should still work just fine for lower versions down to 2.0 at least, but will raise a warning.
+If your launcher does claim incompatibility for a current version, try resubscribing to the mod on the workshop first - mods do not always update properly.
 
-[u]If your launcher claims incompatibility, try resubscribing to the mod on the workshop first - mods do not always update properly.[/u]
-
+[img]https://raw.githubusercontent.com/Aerolfos/stellaris_mod_deploy_action/main/assets/header_description_1.png[/img]
 An EVA fit for the true believers. Features quotes from Command and Conquer 3: Kane's Wrath, covering all voice advisor notifications.
 
 (Almost) Guaranteeed to contain no traces of evil computer assisted biologically augmented lifeforms.
+
+[h3]Links[/h3]
+[url=https://github.com/Aerolfos/nod_voice_advisor][img]https://raw.githubusercontent.com/Aerolfos/stellaris_mod_deploy_action/main/assets/header_github_2.png[/img][/url]
