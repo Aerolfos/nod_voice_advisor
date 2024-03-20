@@ -11,5 +11,9 @@ An EVA fit for the true believers. Features quotes from Command and Conquer 3: K
 
 (Almost) Guaranteeed to contain no traces of evil computer assisted biologically augmented lifeforms.
 
+Non-steam users can download the mod from Github.
+
 [h3]Links[/h3]
+[url=https://github.com/Aerolfos/nod_voice_advisor/releases/latest][img]https://img.shields.io/github/v/release/aerolfos/nod_voice_advisor?logo=github&style=flat)[/img][/url] - Download from Github
 [url=https://github.com/Aerolfos/nod_voice_advisor][img]https://raw.githubusercontent.com/Aerolfos/stellaris_mod_deploy_action/main/assets/header_github_2.png[/img][/url]
+[url=https://github.com/Aerolfos/https://github.com/Aerolfos/nod_voice_advisor/wiki/home][img]https://raw.githubusercontent.com/Aerolfos/stellaris_mod_deploy_action/main/assets/header_FAQ.png[/img][/url]
