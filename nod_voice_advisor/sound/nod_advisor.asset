@@ -666,7 +666,9 @@ soundeffect = {
 
 # Category to hold the lines
 category = {
-	name = "Nod Voice"
+	# as far as I understand categories append - we can use the vanilla voice and these lines will be added
+	# by corresponding to one of Stellaris' categories it will be controllable by appropriate slider in options menu
+	name = "Voice"
 	soundeffects = {
 		nod_advisor_notification_alien_empire_communication
 		nod_advisor_notification_alien_federation_formed
