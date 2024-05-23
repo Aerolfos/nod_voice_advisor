@@ -1,7 +1,7 @@
 # Changes for [Nod Virtual Assistant](https://steamcommunity.com/sharedfiles/filedetails/?id=1535597838)
 
 ---
-## Nod Virtual Assistant `WIP`:
+## [Nod Virtual Assistant `1.2.2`](https://github.com/Aerolfos/nod_voice_advisor/releases/tag/v1.2.2):
 
 - Backend Github changes
 - Upgrade workshop description with proper assets, match format for other mods of mine
