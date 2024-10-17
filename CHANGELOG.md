@@ -1,6 +1,13 @@
 # Changes for [Nod Virtual Assistant](https://steamcommunity.com/sharedfiles/filedetails/?id=1535597838)
 
 ---
+## Nod Virtual Assistant `WIP`:
+
+- Make Github release for 3.13
+- Update for Stellaris now also using a `v` prefix in versions
+---
+
+---
 ## [Nod Virtual Assistant `1.2.2`](https://github.com/Aerolfos/nod_voice_advisor/releases/tag/v1.2.2):
 
 - Backend Github changes
