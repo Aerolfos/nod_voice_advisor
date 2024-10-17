@@ -1,6 +1,6 @@
 # [Nod Virtual Assistant](https://steamcommunity.com/sharedfiles/filedetails/?id=1535597838)
 [![Stellaris Mod Deploy Action Status](https://github.com/aerolfos/nod_voice_advisor/actions/workflows/deployStellarisMod.yml/badge.svg)](https://github.com/aerolfos/nod_voice_advisor/actions/workflows/deployStellarisMod.yml)
-[![GitHub Release Badge](https://img.shields.io/github/v/release/aerolfos/nod_voice_advisor?logo=github&style=flat)](https://github.com/Aerolfos/aerial_realistic_ships/releases/latest)
+[![GitHub Release Badge](https://img.shields.io/github/v/release/aerolfos/nod_voice_advisor?logo=github&style=flat)](https://github.com/Aerolfos/nod_voice_advisor/releases/latest)
 [![Repository License](https://img.shields.io/github/license/aerolfos/nod_voice_advisor?style=flat&color=brightgreen)](LICENSE)
 <!---[![Discord](https://img.shields.io/discord/739835273969664050?style=flat&label=Discord&logo=discord&logoColor=white&color=7289DA)](https://discord.com/invite/xUrG9wh)--->
 
