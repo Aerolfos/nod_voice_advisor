@@ -2,7 +2,8 @@
 
 ---
 ## Nod Virtual Assistant `WIP`:
-- Newest changes
+- Fix thumbnail to `thumbnail.png`
+- Fix GitHub action failing
 ---
 
 ---
@@ -14,7 +15,7 @@
 ---
 ## [Nod Virtual Assistant `v1.2.3`](https://github.com/Aerolfos/nod_voice_advisor/releases/tag/v1.2.3):
 
-- Make Github release for 3.13
+- Make GitHub release for 3.13
 - Update for Stellaris now also using a `v` prefix in versions
 ---
 
@@ -69,7 +70,7 @@
 ---
 ## Nod Virtual Assistant `1.0.11`:
 - Stellaris `3.1` compatibility
-- Start using Github for version control
+- Start using GitHub for version control
 ---
 
 ---
