@@ -1,6 +1,12 @@
 # Changes for [Nod Virtual Assistant](https://steamcommunity.com/sharedfiles/filedetails/?id=1535597838)
 
 ---
+## Nod Virtual Assistant `WIP`:
+
+- Deploy for Stellaris 3.14
+---
+
+---
 ## [Nod Virtual Assistant `v1.2.3`](https://github.com/Aerolfos/nod_voice_advisor/releases/tag/v1.2.3):
 
 - Make Github release for 3.13

@@ -1,22 +1,13 @@
 # This workflow calls a reusable main workflow that handles actual deployment
 
-# info
-name: 'Deploy Stellaris mod update'
-run-name: "${{ github.actor }} triggered a ${{ inputs.versionType }} update for ${{ github.event.repository.name }}"
+# in case upload fails, re-run just that part
+name: 'Standalone upload Stellaris mod update to Steam Workshop'
+run-name: "${{ github.actor }} triggered standalone Steam Workshop upload for ${{ github.event.repository.name }}"
 
 on:
   # for calling manually and getting input popups
   workflow_dispatch:
     inputs:
-      versionType:
-        description: 'Version type to bump, follows semantic versioning'
-        required: true
-        default: 'Patch'
-        type: choice
-        options:
-        - 'Major'
-        - 'Minor'
-        - 'Patch'
       versionStellaris:
         description: 'Stellaris version to support'
         required: true
@@ -29,32 +20,18 @@ on:
         required: true
         type: boolean
         default: true
-      updateLoc:
-        description: 'Copy english loc entries to other languages?'
-        required: true
-        type: boolean
-        default: true
       experimentalSteamWorkshopUpload:
         description: 'Automatically upload to Steam Workshop?'
         required: false
         type: boolean
         default: true
-
+      
 permissions:
   contents: write
 
 jobs:
-  use_updateStellarisMod_workflow:
-    uses: aerolfos/stellaris_mod_deploy_action/.github/workflows/updateStellarisMod.yml@main
-    with: 
-      versionType: ${{ inputs.versionType }}
-      versionStellaris: ${{ inputs.versionStellaris }}
-      useChangelog: ${{ inputs.useChangelog }}
-      updateLoc: ${{ inputs.updateLoc }}
-
   use_uploadSteamWorkshop_workflow:
     if: ${{ inputs.experimentalSteamWorkshopUpload }}
-    needs: use_updateStellarisMod_workflow
     uses: aerolfos/stellaris_mod_deploy_action/.github/workflows/uploadSteamWorkshop.yml@main
     with: 
       steam_appID: "281990" # stellaris
