@@ -9,7 +9,7 @@ tags={
 	"Electronic Virtual Assistant"
 	"Command and Conquer"
 }
-picture="thumb.png"
+picture="thumbnail.png"
 supported_version="v3.*.*"
 path="mod/nod_voice_advisor/nod_voice_advisor"
 remote_file_id="1535597838"
