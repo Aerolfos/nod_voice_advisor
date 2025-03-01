@@ -13,7 +13,7 @@
 # }
 
 advisor_nod = {
-	name = "SETTINGS_VOICE_TYPE_nod-advisor"
+	name = "SETTINGS_VOICE_TYPE_nod_advisor"
     icon = "gfx/interface/icons/Nod.dds"
 
 	playable = { always = yes }
