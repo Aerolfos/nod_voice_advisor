@@ -1,4 +1,4 @@
-[h3][img]https://raw.githubusercontent.com/Aerolfos/stellaris_mod_deploy_action/main/assets/blue_caution_triangle.png[/img] Supports Stellaris version: [b]v3.13.x[/b][/h3]
+[h3][img]https://raw.githubusercontent.com/Aerolfos/stellaris_mod_deploy_action/main/assets/blue_caution_triangle.png[/img] Supports Stellaris version: [b]3.14.x[/b][/h3]
 [h3][img]https://raw.githubusercontent.com/Aerolfos/stellaris_mod_deploy_action/main/assets/victorious_small.png[/img] Achievement compatible.[/h3]
 
 [h2]Rejoice, children of Nod![/h2]

@@ -1,5 +1,5 @@
 name="Nod Virtual Assistant"
-version="v1.2.3"
+version="v1.2.4"
 tags={
 	"Sound"
 	"Nod"
