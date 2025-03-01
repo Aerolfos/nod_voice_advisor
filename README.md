@@ -15,7 +15,9 @@ A Stellaris mod that adds a new advisor featuring quotes from Command and Conque
 ## Installation
 Steam owners can subscribe to the [Steam Workshop version of the mod](https://steamcommunity.com/sharedfiles/filedetails/?id=1535597838).
 
-WIP for manual installation instructions
+[Manual download](https://github.com/Aerolfos/nod_voice_advisor/releases/latest).
+
+[Manual installation instructions](https://github.com/Aerolfos/stellaris_mod_deploy_action/wiki/Mod-Installation).
 
 ## License
 Code and documentation are licensed under [GNU GPL v3.0](LICENSE). 
