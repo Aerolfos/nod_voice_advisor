@@ -2,7 +2,7 @@
 
 ---
 ## Nod Virtual Assistant `WIP`:
-- Newest changes
+- Test with 4.0
 ---
 
 ---
