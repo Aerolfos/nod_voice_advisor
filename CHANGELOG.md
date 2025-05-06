@@ -2,6 +2,11 @@
 
 ---
 ## Nod Virtual Assistant `WIP`:
+- Newest changes
+---
+
+---
+## [Nod Virtual Assistant `v1.2.6`](https://github.com/Aerolfos/nod_voice_advisor/releases/tag/v1.2.6):
 - Test with 4.0
 ---
 
