@@ -2,7 +2,7 @@
 
 ---
 ## Nod Virtual Assistant `WIP`:
-- Newest changes
+- Mod checked compatible with 4.2
 ---
 
 ---

@@ -1,1 +1,1 @@
-supported_version_override="v3.*.*"
+supported_version_override="v4.*.*"
